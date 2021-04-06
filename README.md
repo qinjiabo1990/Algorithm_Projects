@@ -1,2 +1,2 @@
-# Algorithm_Assignments
-This is my algorithm assignments
+# Algorithm_Projects
+This is my algorithm prokects during my study at UQ.
