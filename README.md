@@ -1,2 +1,2 @@
 # Algorithm_Projects
-This is my algorithm prokects during my study at UQ.
+These are my algorithm projects during my study at UQ.
